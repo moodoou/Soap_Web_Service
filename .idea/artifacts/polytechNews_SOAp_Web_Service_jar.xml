@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="polytechNews_SOAp_Web_Service:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/polytechNews_SOAp_Web_Service_jar</output-path>
+    <root id="archive" name="polytechNews_SOAp_Web_Service.jar">
+      <element id="module-output" name="polytechNews_SOAp_Web_Service" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.15/commons-codec-1.15.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
